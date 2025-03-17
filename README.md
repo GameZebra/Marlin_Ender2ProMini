@@ -16,6 +16,12 @@
 Additional documentation can be found at the [Marlin Home Page](//marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
+## This is a fork that is optimized for my Ender 2 Pro mini printer.
+Big thanks to the people that have found and researched the Creality 4.2.3 whitch as they say is a phantom board and nothing can be fond for it on the Creality website.
+I have installed BL touch, upgraded the PSU to 10A, replaced the hotend with Vulcano one. And I'm currently optimizeing the config files so that the quality is good and the speed is better than the stock one.
+If you have a Ender 2 Pro mini printer and you may use this repo to jumpstart your software endevours.
+
+
 ## Marlin 2.1 Bugfix Branch
 
 __Not for production use. Use with caution!__
